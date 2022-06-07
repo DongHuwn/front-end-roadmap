@@ -26,7 +26,7 @@
 
 - Sass: app.scss
 
-# CSS Library $ frameworks:
+# CSS Library && frameworks:
 
 - Tailwindcss
 
@@ -59,5 +59,68 @@
 
 # React
 
+- Props
+- State
+- events
+- Conditional Rendering
+
+# React.js Hooks
+
+- useState
+- useEffect
+- useRef
+- useContext
+- useReducer
+- useMemo
+- useCallback
+
+# React.js UI Kit
+
 - tailwindcsss, materialUI, antDesign
 - styled-components
+
+# React.js packages
+
+- react-router
+- styled components
+- axios
+
+# Test
+
+- Enzyme
+- cypress
+- jest
+- mocha
+- jasmine
+
+# Learn more
+
+- PWA: progressive web application
+- Web Sockets
+- Cors
+- JSON
+- security (XSS,CSRF)
+
+# Next JS
+
+# Backend
+
+- HTTP/HTTPS
+- APIs
+- Rest/GraphQL
+- Web Sockets
+- Cors
+- MVC architecture
+- CI/CD
+- Serverless
+
+# Backend Essential things
+
+- authentication/ authorization
+- hashing/bcrypt
+- Postman
+- OAuth
+- rate limiting
+- reverse proxy
+- docs
+- load balancer
