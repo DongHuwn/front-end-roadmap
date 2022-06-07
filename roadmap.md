@@ -25,7 +25,9 @@
 # CSS Preprocessor
 
 - Sass: app.scss
-  CSS Library $ frameworks:
+
+# CSS Library $ frameworks:
+
 - Tailwindcss
 
 # JS
@@ -35,17 +37,25 @@
 - closure
 - function
 - object
-- array
+- array, string methods
 - this, prototype, class, api, async
 - dom, events
 - hoisting
-- ES6 + features
+- ES6 + features:
+  - Shorthands
+  - destructuring
+  - promises
+  - async/await
+  - import/export
+  - spread operator
+- Math & Date methods
+- Window Object methods
 
-# Project with HTML,CSS,JS
+# Deploy
 
-- Todolist
-- weather app
-- ....
+- Netlify
+- Vercel
+- Github
 
 # React
 
