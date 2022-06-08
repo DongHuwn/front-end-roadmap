@@ -84,6 +84,17 @@
 - react-router
 - styled components
 - axios
+- Tailwindcss
+- react hook form
+- React Query
+- Redux
+- MUI Core
+- React DND
+- SWR
+- Recharts
+- BluePrint
+- React Virtualized
+- React Suite
 
 # Test
 
